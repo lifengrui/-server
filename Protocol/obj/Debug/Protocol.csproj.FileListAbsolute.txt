@@ -1,0 +1,4 @@
+C:\Users\lifengrui\Desktop\server\Server\Protocol\bin\Debug\GameProtocol.dll
+C:\Users\lifengrui\Desktop\server\Server\Protocol\bin\Debug\GameProtocol.pdb
+C:\Users\lifengrui\Desktop\server\Server\Protocol\obj\Debug\GameProtocol.dll
+C:\Users\lifengrui\Desktop\server\Server\Protocol\obj\Debug\GameProtocol.pdb

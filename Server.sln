@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{C5AC4F5C-688A-4631-9628-84F2D7C10DAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFrame", "NetFrame\NetFrame.csproj", "{A97E17EF-3B1F-4CCF-9DA0-7FB111737147}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Protocol", "Protocol\Protocol.csproj", "{F1D24B94-7262-4C28-AA9E-ADB3E4C94E1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5AC4F5C-688A-4631-9628-84F2D7C10DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5AC4F5C-688A-4631-9628-84F2D7C10DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5AC4F5C-688A-4631-9628-84F2D7C10DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5AC4F5C-688A-4631-9628-84F2D7C10DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A97E17EF-3B1F-4CCF-9DA0-7FB111737147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A97E17EF-3B1F-4CCF-9DA0-7FB111737147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A97E17EF-3B1F-4CCF-9DA0-7FB111737147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A97E17EF-3B1F-4CCF-9DA0-7FB111737147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1D24B94-7262-4C28-AA9E-ADB3E4C94E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1D24B94-7262-4C28-AA9E-ADB3E4C94E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1D24B94-7262-4C28-AA9E-ADB3E4C94E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1D24B94-7262-4C28-AA9E-ADB3E4C94E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

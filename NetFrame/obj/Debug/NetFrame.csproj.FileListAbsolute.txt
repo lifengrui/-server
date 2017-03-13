@@ -1,0 +1,5 @@
+C:\Users\lifengrui\Desktop\server\Server\NetFrame\bin\Debug\NetFrame.dll
+C:\Users\lifengrui\Desktop\server\Server\NetFrame\bin\Debug\NetFrame.pdb
+C:\Users\lifengrui\Desktop\server\Server\NetFrame\obj\Debug\NetFrame.dll
+C:\Users\lifengrui\Desktop\server\Server\NetFrame\obj\Debug\NetFrame.pdb
+C:\Users\lifengrui\Desktop\server\Server\NetFrame\obj\Debug\NetFrame.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\lifengrui\Desktop\server\Server\Server\bin\Debug\Server.exe.config
+C:\Users\lifengrui\Desktop\server\Server\Server\bin\Debug\Server.exe
+C:\Users\lifengrui\Desktop\server\Server\Server\bin\Debug\Server.pdb
+C:\Users\lifengrui\Desktop\server\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\lifengrui\Desktop\server\Server\Server\obj\Debug\Server.exe
+C:\Users\lifengrui\Desktop\server\Server\Server\obj\Debug\Server.pdb
+C:\Users\lifengrui\Desktop\server\Server\Server\bin\Debug\NetFrame.dll
+C:\Users\lifengrui\Desktop\server\Server\Server\bin\Debug\NetFrame.pdb
+C:\Users\lifengrui\Desktop\server\Server\Server\bin\Debug\GameProtocol.dll
+C:\Users\lifengrui\Desktop\server\Server\Server\bin\Debug\GameProtocol.pdb
+E:\c#异步服务器\-server\Server\bin\Debug\Server.exe.config
+E:\c#异步服务器\-server\Server\obj\Debug\Server.exe
+E:\c#异步服务器\-server\Server\obj\Debug\Server.pdb
